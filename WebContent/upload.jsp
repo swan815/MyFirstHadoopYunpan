@@ -6,6 +6,7 @@
 <head>
 <jsp:include page="/include/head.jsp"></jsp:include>
 </head>
+
 <body>
 	<div class="container-fluid">
 		<div class="row" style="margin-top: 10px;">
@@ -32,6 +33,11 @@
 								<p class="help-block">上传文件.</p>
 							</div>
 							<button type="submit" class="btn btn-primary">Submit</button>
+						</form>
+						<form role="form" action="${ctx }/BackServlet" method="post"  enctype="multipart/form-data"  >
+							<div class="form-group">
+							</div>
+							<button type="submit" class="btn btn-primary">Back</button>
 						</form>
 					</div>
 				</div>

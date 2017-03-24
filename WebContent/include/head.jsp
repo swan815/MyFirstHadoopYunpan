@@ -4,7 +4,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Hadoop-云盘,使用hbase做文件存储的例子一个">
 <meta name="keywords" content="Hadoop,hbase,java,mysql,Bootstrap">
-<meta name="author" content="victor anduo@qq.com">
+<meta name="author" content="30940660@qq.com">
 <title>Hadoop-云盘</title>
 <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap.min.css">
 <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.0/css/bootstrap-theme.min.css">
